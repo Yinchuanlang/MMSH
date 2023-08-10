@@ -1,1 +1,1 @@
-select * from ycl.test01;
+select * from ycl.test01 limit 10;
